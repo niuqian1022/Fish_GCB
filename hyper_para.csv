@@ -1,0 +1,17 @@
+,object,lambda,RMSE,X,Rsquared
+1,luzo_hzFall,0.175,0.7671,size,0.3652
+2,luzo_hzWin,0.375,1.0862,density,0.3622
+3,etca_hzSum,0.2,0.8066567,maxcv,0.292355
+4,etfl_hzSum,0.275,0.7442221,"size, density",0.3724109
+5,coba_hzSum,0.075,0.945107,all,0.062688776
+6,luzo_hzSum,0.075,0.945107,density,0.062688776
+7,etfl_hzSpr,0.025,0.5789019,"size, resource, density",0.6263819225
+8,luzo_hzSpr,0.2,0.8601539,"maxcv, size",0.1940581
+9,etbl_allSites_sum,0.225,1.109171,"maxcv, density",0.016522345
+10,etca_allSites_sum,0.25,0.8185674,resource,0.27597259
+11,etsp_allSites_sum,0.2,0.9959462,size,0.0053175266
+12,luzo_allSites_sum,0.125,0.8921783,"size, maxcv, resource",0.1842983
+13,etbl_allSites_spr,0,1.141133,"size, maxcv, resource",0.0329474706
+14,etca_allSites_spr,0.3,1.01295,density,0.001322322
+15,luzo_allSites_spr,0.275,1.001639,size,0.0005827925
+16,etbl_br_Spr,0.05,0.8533004,"resource,  density",0.2402027627
